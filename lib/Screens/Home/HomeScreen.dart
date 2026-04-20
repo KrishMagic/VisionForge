@@ -29,7 +29,7 @@ class HomeScreen extends StatelessWidget {
             ),
             const SizedBox(height: 12),
             Text(
-              'Time to build something awesome.',
+              'Time to build something awesome..',
               style: TextStyle(
                 fontSize: 16,
                 color: Colors.white.withOpacity(0.7),
